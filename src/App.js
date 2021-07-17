@@ -5,6 +5,8 @@ import alanBtn from '@alan-ai/alan-sdk-web';
 import useStyles from './styles';
 import wordsToNumbers from 'words-to-numbers';
 
+// Go to this website: https://alan.app/
+// Create account and get your access key then put it into the variable below
 const alanKey = "put your access key in here";
 
 function App() {
